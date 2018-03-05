@@ -1,0 +1,12 @@
+background_b: 0
+background_g: 0 
+background_r: 240 
+rosdistro: 'indigo
+
+  '
+roslaunch:
+  uris: {host_buzzshima_thinkpad__37273: 'http://buzzshima-ThinkPad:37273/'}
+rosversion: '1.11.21
+
+  '
+run_id: 10f47854-1b83-11e8-8472-9c4e36d70560
